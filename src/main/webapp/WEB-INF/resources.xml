@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="LabanorasDataSource" type="javax.sql.DataSource">#Thu Feb 18 21:08:15 EET 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=labanoras
+userName=labanoras
+jdbcUrl=jdbc\:derby\://localhost\:1527/LabanorasDB
+</Resource>
+  <Resource id="LabanorasDataSource" type="javax.sql.DataSource">#Sun Mar 13 12:11:56 EET 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=labanoras
+userName=labanoras
+jdbcUrl=jdbc\:derby\://localhost\:1527/LabanorasDB
+</Resource>
+</resources>
