@@ -22,4 +22,7 @@ import lt.vu.mif.labanorodraugai.entities.Objecttable;
 @Stateless
 public class SummerhousesManager {
 
+    public void create(){
+        
+    }
 }
